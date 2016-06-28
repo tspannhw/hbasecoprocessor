@@ -1,0 +1,2 @@
+# hbasecoprocessor
+Example HBase Coprocessor
